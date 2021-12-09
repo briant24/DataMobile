@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menu Dashboard</string>
+    <string name="_3213111021_briant_audiera">3213111021 Briant Audiera</string>
+    <string name="sdn_2_sukorejo">SDN 2 Sukorejo</string>
+    <string name="briantaudiareee">briantaudiareee</string>
+    <string name="uty">UTY</string>
+    <string name="smk_telkom_purwokerto">SMK Telkom Purwokerto</string>
+    <string name="briant24">briant24</string>
+    <string name="foto">foto</string>
+    <string name="smpn_1_sukorejo">SMPN 1 Sukorejo</string>
+    <string name="exit">Exit</string>
+    <string name="briant_audiera">Briant Audiera</string>
+    <string name="gmbarsd">gmbarsd</string>
+    <string name="gmbrsmp">gmbrsmp</string>
+    <string name="gmbruty">gmbruty</string>
+    <string name="gmbrig">gmbrig</string>
+    <string name="gmbrsmk">gmbrsmk</string>
+    <string name="gmbrlnkd">gmbrlnkd</string>
+    <string name="gmbrgit">gmbrgit</string>
+    <string name="gmbrexit">gmbrexit</string>
+</resources>
